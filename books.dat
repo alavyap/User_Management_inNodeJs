@@ -1,0 +1,42 @@
+[
+    {
+        "id": "3",
+        "name": "three",
+        "description": "the three",
+        "isbn": "333-33",
+        "page_count": 33,
+        "issued": true,
+        "author": "three",
+        "year": 2003
+    },
+    {
+        "id": 4,
+        "name": "four",
+        "description": "the four",
+        "isbn": "444-44",
+        "page_count": 44,
+        "issued": true,
+        "author": "444-44",
+        "year": 2004
+    },
+    {
+        "id": 1,
+        "name": "the one",
+        "description": "this is one",
+        "isbn": "111-111",
+        "page_count": 111,
+        "issued": false,
+        "author": "one",
+        "year": 2001
+    },
+    {
+        "id": 2,
+        "name": "twooo",
+        "description": "the book two",
+        "isbn": "222",
+        "page_count": 22,
+        "issued": false,
+        "author": "222",
+        "year": 2002
+    }
+]
